@@ -1,0 +1,31 @@
+h1 {
+    Color:#13706B;
+    font:80px gotham HTF; light condensed;
+    background-color:#AFC748;
+    margin: 0px 0px 0px 0px;
+    padding:10px 10px 10px 450px
+}
+
+body { 
+    background-color:#13706B;
+    font:17px  gotham HTF; light condensed;
+}
+h2 {text-decoration: underline;
+    font: 25px  gotham HTF; light condensed;
+}
+p { text-decoration: underline;
+}
+
+#link {background-color: #AA2159;
+       padding:10px 10px 10px 450px;
+        
+    
+}
+a { 
+    color:#13706B;
+}
+a:hover { color:#AFC748;
+}
+
+#contact { background-color:#AFC748;
+}

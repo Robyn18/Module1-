@@ -1,0 +1,76 @@
+h1 { color: #7EC2AA;
+    background-color: #AFC748;
+    font: 80px gotham HTF; light condensed;
+    margin: 0px auto 0px auto;
+    padding: 10px 10px 10px 470px
+}
+body {font: 17px gotham HTF; light condensed;
+       background-color: #13AA6A;
+}
+
+
+#link { 
+      
+        padding :10px 10px 10px 450px;
+        background-color:#13706B;
+}
+a {color:#AFC748;
+}a:hover { color:#7EC2AA;
+}
+
+.photos { width:261px;
+          margin:30px auto 30px 180px;
+          background-color:#AFC748;
+}
+
+#jl {   
+        padding :10px 0px 10px 200px;
+        margin :0px 1000px 0px 0px;
+        Background-color: #F3D436;
+}
+
+#mm {   padding :10px 0px 10px 200px;
+        margin :0px 1000px 0px 0px;
+        Background-color:#593457;
+}
+
+#pc {   padding :10px 0px 10px 200px;
+        margin :0px 1000px 0px 0px;
+        Background-color:#D67B1D;
+}
+
+#dp {   padding :10px 0px 10px 200px;
+        margin :0px 1000px 0px 0px;
+        Background-color:#484C71;
+}
+
+#mc {   padding :10px 0px 10px 200px;
+        margin :0px 1000px 0px 0px;
+        Background-color:#AB114C;
+}
+
+#tn {   padding :10px 0px 10px 200px;
+        margin :0px 1000px 0px 0px;;
+        Background-color:#F07A45;
+}
+
+#tp {   padding :10px 0px 10px 200px;
+        margin :0px 1000px 0px 0px;
+        Background-color:#F69E35;
+}
+
+#ss {   padding :10px 0px 10px 200px;
+        margin :0px 1000px 0px 0px;
+        Background-color:#7B1846;
+}
+
+#gob {   padding :10px 0px 10px 200px;
+         margin :0px 1000px 0px 0px;
+         Background-color:#7EC2AA;
+}
+
+h2 {color: #000000;
+    text-decoration: underline;
+    font: 28px gotham HTF; light condensed;
+    padding :0px 0px 0px 205px;
+    

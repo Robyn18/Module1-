@@ -1,0 +1,47 @@
+h1 {
+    color:#AFC748;
+    font:85px gotham HTF; light condensed ;
+    background-color:#7EC2AA; 
+    margin :0px 0px 0px 0px;
+    padding :10px 10px 10px 450px;
+}
+h2 { text-decoration:underline;
+     font: 28px gotham HTF; light condensed;
+  
+}
+p { text-decoration:underline;
+    
+}
+
+
+body {
+        background-color:#AFC748;
+        font:17px gotham HTF; light condensed;
+        
+   
+}
+#link { 
+       color: white;
+        padding :10px 10px 10px 463px;
+        background-color:#13706B;
+    
+}
+a {
+    color: #7EC2AA;
+}
+
+a:hover { color:#AFC748;
+}
+
+.contact { background-color: #13706B ;
+          width:500px;
+          margin:30px auto 30px 60px;
+          padding:2px 50px 10px 10px;
+
+}
+
+.details {background-color:#13706B ;
+          width:250px;
+          margin:30px 0px 0px 0px;
+          padding:1px 0px px 0px;
+}

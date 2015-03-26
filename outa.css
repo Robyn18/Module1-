@@ -1,0 +1,60 @@
+h1 {
+		color:#AB114C;
+		font:100px  gotham HTF; light condensed;
+
+	    
+        margin :0px 0px 0px 0px;
+        padding :10px 10px 10px 480px;
+    image-orientation: max.jpg;
+    }
+h2 {color: #000000;
+   
+    font: 28px gotham HTF; light condensed;
+    
+    
+}
+body { 
+    color: #D67B1D;
+background-image:url(max.jpg);
+    
+      
+       
+        font:17px gotham HTF; light condensed;
+       
+         
+     }
+
+
+#link {	   
+       
+        padding :10px 0px 10px 560px;
+       
+} 
+a { color:#F3D436;
+}
+a:hover { color:#D67B1D;
+}
+
+#contact {
+          background-color:#D67B1D;
+          width:1000px;
+          margin:10px 20px 3px 60px;
+          padding:2px 20px 10px 15px;
+
+}
+
+#ei { 
+    background-color:#F3D436;
+    width:300px;
+    margin:10px 0px 3px 0px;
+    padding:0px 0px 0px 0px;
+}
+
+#time {
+          color:#D67B1D;
+          width:300px;
+          margin:10px 20px 3px 60px;
+          padding:2px 20px 10px 15px;
+
+}
+

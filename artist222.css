@@ -1,0 +1,38 @@
+h1 { color: #F59D49;
+    background-color: #04193B; 
+    font: 70px gotham HTF; light condensed;
+    margin: 0px 0px 0px 0px;
+     padding: 10px 10px 10px 450px;
+}
+body { background-color: #71144D;
+    font: 17px gotham HTF; light condensed;
+}
+#link {background-color: #F59D49;
+       margin: 0px 0px 0px 0px;
+       padding :10px 0px 10px 485px;
+}
+a { color:#04193B;}
+
+a:hover{
+       color: #71144D;
+}
+.photo {
+            width: 256px;
+          margin:30px auto 30px 500px;
+          padding:40px 40px 40px 40px;
+        background-color: #04193B;
+}
+
+.genre {
+          width:200px;
+          margin:30px auto 30px 60px;
+          padding:2px 30px 5px 10px;
+          background-color:#F59D49;
+}
+
+.band {
+          width:1100px;
+          margin:30px auto 30px 60px;
+          padding:2px 100px 10px 10px;
+          background-color:#F59D49;
+}

@@ -1,0 +1,45 @@
+h1 { color: #7EC2AA;
+     background-color: #F07A45;
+    font: 70px gotham HTF; light condensed;
+    margin: 0px 0px 0px 0px;
+     padding: 10px 10px 10px 450px;
+}
+
+
+body {background-color: #BCC747;
+      font: 17px gotham HTF; light condensed;
+}
+.narrow { 
+    background-color: #F07A45;
+   width: 256px;
+          margin:30px auto 30px 500px;
+          padding:40px 40px 40px 40px;
+   
+}
+
+.genre {
+          width:200px;
+          margin:30px auto 30px 60px;
+          padding:2px 30px 5px 10px;
+          background-color:#F07A45;
+}
+
+.band {
+          width:1100px;
+          margin:30px auto 30px 60px;
+          padding:2px 100px 10px 10px;
+          background-color:#F07A45;
+}
+h2 {  text-decoration: underline;
+      font: 25px gotham HTF; light condensed;
+}
+#link { background-color:  #7EC2AA;
+     margin: 0px 0px 0px 0px;
+       padding :10px 0px 10px 500px;
+}
+
+a {color: #F07A45;
+}
+
+a:hover {color:#BCC747;
+}

@@ -1,0 +1,37 @@
+h1 { color: #593457;
+     background-color: #BCC747;
+    font: 70px gotham HTF; light condensed;
+    margin: 0px 0px 0px 0px;
+     padding: 10px 10px 10px 450px;
+}
+
+h2 {  text-decoration: underline;
+      font: 25px gotham HTF; light condensed;
+}
+body {background-color:#41A892;
+      font: 17px gotham HTF; light condensed ;
+}
+.circle {
+    width:261px;
+    margin:30px auto 30px 490px;
+    background-color: #BCC747;
+}
+
+#link {background-color: #7EC2AA;
+       margin: 0px 0px 0px 0px;
+       padding :10px 0px 10px 540px;
+}
+
+.genre {
+          width:200px;
+          margin:30px auto 30px 60px;
+          padding:2px 30px 5px 10px;
+          background-color:#7EC2AA;
+}
+
+.band {
+          width:1100px;
+          margin:30px auto 30px 60px;
+          padding:2px 100px 10px 10px;
+          background-color:#7EC2AA;
+}

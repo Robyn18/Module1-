@@ -1,0 +1,43 @@
+h1 { color: #F3D436;
+     background-color: #AB114C;
+    font: 70px gotham HTF; light condensed;
+    margin: 0px 0px 0px 0px;
+     padding: 10px 10px 10px 600px;
+}
+
+h2 {color: #000000;
+    text-decoration: underline;
+    font: 25px gotham HTF; light condensed;
+    padding :0px 0px 0px 0px;
+    
+    
+}
+body { background-color: #D67B1D;
+    font: 15px gotham HTF; light condenced;
+}
+.mic {
+          width:256px;
+          margin:30px auto 30px 560px;
+          padding:40px 40px 40px 40px;
+          background-color:#AB114C;
+}
+.genre {
+          width:200px;
+          margin:30px auto 30px 60px;
+          padding:2px 30px 5px 10px;
+          background-color:#AB114C;
+}
+
+.band {
+          width:1100px;
+          margin:30px auto 30px 60px;
+          padding:2px 100px 10px 10px;
+          background-color:#AB114C;
+}
+#link{ background-color: #F3D436;
+        padding:10px 0px 10px 595px;
+}
+a { color: #AB114C;
+}
+a:hover {color: #D67B1D;
+}

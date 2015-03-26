@@ -1,0 +1,38 @@
+h1 { color: #7EC2AA;
+     background-color: #F3D436;
+    font: 70px gotham HTF; light condensed;
+    margin: 0px 0px 0px 0px;
+     padding: 10px 10px 10px 450px;
+}
+
+h2 {  text-decoration: underline;
+      font: 25px gotham HTF; light condensed;
+}
+body {background-color: #1FA7A2;
+      font: 17px gotham HTF; light condensed;
+}
+
+.loops {
+    background-color: #F3D436;
+    width:261px;
+    margin:30px auto 30px 520px;
+}
+
+#link {background-color: #13AA6A;
+       margin: 0px 0px 0px 0px;
+       padding :10px 0px 10px 540px;
+}
+
+#h {
+          width:150px;
+          margin:30px auto 30px 60px;
+          padding:2px 30px 5px 10px;
+          background-color:#13AA6A;
+}
+
+#band {
+          width:1100px;
+          margin:30px auto 30px 60px;
+          padding:2px 100px 10px 10px;
+          background-color:#13AA6A;
+}

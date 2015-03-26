@@ -1,0 +1,33 @@
+h1 { color: #F3D436;
+    background-color:  #AA2159;
+    font: 85px gotham HTF; light condensed ;
+    margin: 0px 0px 0px 0px;
+    padding: 10px 10px 10px 450px;
+}
+
+h2 { text-decoration: underline;
+     font: 28px gotham HTF; light condensed ;
+}
+
+body {font: 17px gotham HTF; light condensed ;
+
+    background-color:#08A4A0;
+}
+
+
+h3 {text-decoration: underline;
+      font: 19px gotham HTF; light condensed ;
+}
+#link { 
+       color: white;
+        padding :10px 10px 10px 500px;
+        background-color:#13706B;
+}
+a { color:#08A4A0 ;
+}
+a:hover{
+    color:#AA2159;
+}
+#contact { background-color:#13706B;
+           color:#000000;
+}
